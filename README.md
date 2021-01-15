@@ -23,11 +23,11 @@
 | [Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance) | Easy | 15 | [Solution](day-5/inheritance.js) |
 | [Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals) | Easy | 15 | [Solution](day-5/template_literals.js) |
 | [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows) | Easy | 15 | [Solution](day-5/arrow_functions.js) |
-| [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise) | Easy | 15 | [Solution]() |
-| [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date) | Easy | 15 | [Solution]() |
-| [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1) | Easy | 15 | [Solution]() |
-| [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2) | Easy | 15 | [Solution]() |
-| [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3) | Easy | 15 | [Solution]() |
+| [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise) | Easy | 15 | [Solution](day-6/bitwise_operators.js) |
+| [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date) | Easy | 15 | [Solution](day-6/js_dates.js) |
+| [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1) | Easy | 15 | [Solution](day-7/regex_1.js) |
+| [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2) | Easy | 15 | [Solution](day-7/regex_2.js) |
+| [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3) | Easy | 15 | [Solution](day-7/regex_3.js) |
 | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | Easy | 20 | [Solution]() |
 | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | Easy | 25 | [Solution]() |
 | [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | Medium | 30 | [Solution]() |
