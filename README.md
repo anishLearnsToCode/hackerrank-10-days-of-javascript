@@ -1,6 +1,6 @@
 # HackerRank 10 Days of JavaScript
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-0/25-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-25/25-1f425f.svg)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![profile](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
 
@@ -28,6 +28,6 @@
 | [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1) | Easy | 15 | [Solution](day-7/regex_1.js) |
 | [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2) | Easy | 15 | [Solution](day-7/regex_2.js) |
 | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3) | Easy | 15 | [Solution](day-7/regex_3.js) |
-| [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | Easy | 20 | [Solution]() |
-| [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | Easy | 25 | [Solution]() |
-| [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | Medium | 30 | [Solution]() |
+| [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | Easy | 20 | [Solution](day-8/create_button.md) |
+| [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | Easy | 25 | [Solution](day-8/) |
+| [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | Medium | 30 | [Solution](day-9/binary_calculator.md) |
